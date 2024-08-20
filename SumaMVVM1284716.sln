@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaMVVM1284716", "SumaMVVM1284716\SumaMVVM1284716.csproj", "{FE7655F8-9929-43FD-9B1E-383AE5A723E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7655F8-9929-43FD-9B1E-383AE5A723E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7655F8-9929-43FD-9B1E-383AE5A723E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7655F8-9929-43FD-9B1E-383AE5A723E6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FE7655F8-9929-43FD-9B1E-383AE5A723E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7655F8-9929-43FD-9B1E-383AE5A723E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7655F8-9929-43FD-9B1E-383AE5A723E6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B947A1-B04D-4D71-92E1-69411CEB0BCF}
+	EndGlobalSection
+EndGlobal
